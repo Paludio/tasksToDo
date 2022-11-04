@@ -1,0 +1,16 @@
+ - [ ] git clone
+ - [ ] Fazer a branch
+ - [ ] primeiro commit
+ - [ ] PR
+ - [ ] tag main
+ - [ ] um campo para digitar uma nova tarefa
+ - [ ] um botão para adicionar uma nova tarefa
+ - [ ] não pode ser possível adicionar uma tarefa vázia
+ - [ ] não pode ser possível adicionar uma tarefa repetida
+ - [ ] tem que ser possível adicionar uma nova tarefa
+ - [ ] qual tag podemos usar pra fazer uma lista?
+ - [ ] agora é possível adicionar a nova tarefa?
+ - [ ] destacar a tarefa ao passar o mouse
+ - [ ] excluir a tarefa com dois cliques
+ - [ ] divs para pintar a nova tarefa
+ - [ ] lógica para pintar
